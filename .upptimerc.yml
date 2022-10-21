@@ -3,27 +3,27 @@ owner: waste4change # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: HOMEPAGE | Landing Page
+  - name: HOMEPAGE • Landing Page
     url: https://www.waste4change.com
-  - name: HOMEPAGE | Blog
+  - name: HOMEPAGE • Blog
     url: https://waste4change.com/blog
-  - name: HOMEPAGE | Short URL
+  - name: HOMEPAGE • Short URL
     url: https://w4c.id/shorturl
-  - name: SYW | Admin
+  - name: SYW • Admin
     url: https://pwm.waste4change.com/poin/admin
-  - name: SYW | Agent
+  - name: SYW • Agent
     url: https://pwm.waste4change.com/poin/agent
-  - name: SYW | User
+  - name: SYW • User
     url: https://my.waste4change.com
-  - name: SYW | API
+  - name: SYW • API
     url: https://api.my.waste4change.com
-  - name: SYW | API 2
+  - name: SYW • API 2
     url: https://apisyw.my.waste4change.com/api
-  - name: W4C-S | Admin
+  - name: W4C-S • Admin
     url: https://admin.waste4change.com
-  - name: W4C-S | Api
+  - name: W4C-S • Api
     url: https://api.waste4change.com
-  - name: W4C-S | Operator
+  - name: W4C-S • Operator
     url: https://operator.waste4change.com
 
 status-website:
@@ -41,13 +41,16 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+assignees:
+  - NamakuRio
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  staticSite: "*/ * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
   uptime: "*/5 * * * *"
