@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/apisyw.my.waste4change.com.ico",
     "slug": "syw-api-2",
     "status": "up",
-    "uptime": "3.36%",
-    "uptimeDay": "3.36%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.36%",
-    "uptimeYear": "3.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 930,
     "timeDay": 930,
     "timeWeek": 930,
     "timeMonth": 930,
     "timeYear": 930,
-    "dailyMinutesDown": {
-      "2022-10-21": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "W4C-S | Admin",
