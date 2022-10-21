@@ -18,7 +18,7 @@ sites:
   - name: SYW | API
     url: https://api.my.waste4change.com
   - name: SYW | API 2
-    url: https://apisyw.my.waste4change.com
+    url: https://apisyw.my.waste4change.com/api
   - name: W4C-S | Admin
     url: https://admin.waste4change.com
   - name: W4C-S | Api
