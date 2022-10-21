@@ -49,7 +49,7 @@ assignees:
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "*/5 * * * *"
-  staticSite: "*/ * * * *"
+  staticSite: "*/5 * * * *"
   summary: "*/5 * * * *"
   updateTemplate: "*/5 * * * *"
   updates: "*/5 * * * *"
