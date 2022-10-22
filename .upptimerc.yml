@@ -24,8 +24,6 @@ sites:
     url: https://api.waste4change.com
   - name: W4C-S • Operator
     url: https://operator.waste4change.com
-  - name: Test • Broken Link
-    url: https://brokenlink.waste4change.com
 
 status-website:
   cname: status.waste4change.com
@@ -38,7 +36,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: night
 
 assignees:
   - NamakuRio
