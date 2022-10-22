@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1080,
-    "timeDay": 1080,
-    "timeWeek": 1080,
-    "timeMonth": 1080,
-    "timeYear": 1080,
+    "time": 1079,
+    "timeDay": 1079,
+    "timeWeek": 1079,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1417,
-    "timeDay": 1417,
-    "timeWeek": 1417,
-    "timeMonth": 1417,
-    "timeYear": 1417,
+    "time": 1416,
+    "timeDay": 1416,
+    "timeWeek": 1416,
+    "timeMonth": 1416,
+    "timeYear": 1416,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2347,
-    "timeDay": 2347,
-    "timeWeek": 2347,
-    "timeMonth": 2347,
-    "timeYear": 2347,
+    "time": 2346,
+    "timeDay": 2346,
+    "timeWeek": 2346,
+    "timeMonth": 2346,
+    "timeYear": 2346,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1163,
-    "timeDay": 1163,
-    "timeWeek": 1163,
-    "timeMonth": 1163,
-    "timeYear": 1163,
+    "time": 1162,
+    "timeDay": 1162,
+    "timeWeek": 1162,
+    "timeMonth": 1162,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.my.waste4change.com.ico",
     "slug": "syw-api",
     "status": "up",
-    "uptime": "95.53%",
-    "uptimeDay": "95.53%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "95.53%",
+    "uptime": "95.56%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 750,
     "timeDay": 750,
     "timeWeek": 750,
@@ -133,16 +133,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apisyw.my.waste4change.com.ico",
     "slug": "syw-api-2",
     "status": "up",
-    "uptime": "95.71%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "95.71%",
-    "time": 1187,
-    "timeDay": 1187,
-    "timeWeek": 1187,
-    "timeMonth": 1187,
-    "timeYear": 1187,
+    "uptime": "95.73%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
+    "time": 1186,
+    "timeDay": 1186,
+    "timeWeek": 1186,
+    "timeMonth": 1186,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2022-10-21": 36
     }
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-22": 94
+      "2022-10-22": 99
     }
   }
 ]
