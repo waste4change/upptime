@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2355,
-    "timeDay": 2355,
-    "timeWeek": 2355,
-    "timeMonth": 2355,
-    "timeYear": 2355,
+    "time": 2357,
+    "timeDay": 2357,
+    "timeWeek": 2357,
+    "timeMonth": 2357,
+    "timeYear": 2357,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 1157,
-    "timeWeek": 1157,
-    "timeMonth": 1157,
-    "timeYear": 1157,
+    "time": 1156,
+    "timeDay": 1156,
+    "timeWeek": 1156,
+    "timeMonth": 1156,
+    "timeYear": 1156,
     "dailyMinutesDown": {}
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.my.waste4change.com.ico",
     "slug": "syw-api",
     "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "uptime": "96.09%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 748,
     "timeDay": 748,
     "timeWeek": 748,
@@ -133,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apisyw.my.waste4change.com.ico",
     "slug": "syw-api-2",
     "status": "up",
-    "uptime": "96.23%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "96.23%",
-    "uptimeYear": "96.23%",
+    "uptime": "96.24%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "96.24%",
+    "uptimeYear": "96.24%",
     "time": 1186,
     "timeDay": 1186,
     "timeWeek": 1186,
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-22": 210
+      "2022-10-22": 214
     }
   }
 ]
