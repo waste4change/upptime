@@ -52,7 +52,7 @@
     "timeMonth": 2111,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2022-10-25": 406,
+      "2022-10-25": 407,
       "2022-10-24": 1440,
       "2022-10-23": 840
     }
@@ -63,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pwm.waste4change.com.ico",
     "slug": "syw-admin",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2480,
     "timeDay": 2575,
     "timeWeek": 2480,
     "timeMonth": 2480,
     "timeYear": 2480,
-    "dailyMinutesDown": {
-      "2022-10-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SYW • Agent",
@@ -83,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pwm.waste4change.com.ico",
     "slug": "syw-agent",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1219,
     "timeDay": 1271,
     "timeWeek": 1219,
     "timeMonth": 1219,
     "timeYear": 1219,
-    "dailyMinutesDown": {
-      "2022-10-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SYW • User",
@@ -121,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.my.waste4change.com.ico",
     "slug": "syw-api",
     "status": "up",
-    "uptime": "75.89%",
-    "uptimeDay": "12.88%",
-    "uptimeWeek": "75.89%",
-    "uptimeMonth": "75.89%",
-    "uptimeYear": "75.89%",
+    "uptime": "75.88%",
+    "uptimeDay": "12.84%",
+    "uptimeWeek": "75.88%",
+    "uptimeMonth": "75.88%",
+    "uptimeYear": "75.88%",
     "time": 942,
     "timeDay": 1013,
     "timeWeek": 942,
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2022-10-25": 406,
+      "2022-10-25": 407,
       "2022-10-24": 848,
       "2022-10-21": 38
     }
