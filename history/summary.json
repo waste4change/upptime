@@ -52,7 +52,7 @@
     "timeMonth": 2112,
     "timeYear": 2112,
     "dailyMinutesDown": {
-      "2022-10-25": 402,
+      "2022-10-25": 403,
       "2022-10-24": 1440,
       "2022-10-23": 840
     }
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pwm.waste4change.com.ico",
     "slug": "syw-admin",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2464,
     "timeDay": 2519,
     "timeWeek": 2464,
     "timeMonth": 2464,
     "timeYear": 2464,
     "dailyMinutesDown": {
-      "2022-10-25": 0
+      "2022-10-25": 1
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pwm.waste4change.com.ico",
     "slug": "syw-agent",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1206,
     "timeDay": 1225,
     "timeWeek": 1206,
     "timeMonth": 1206,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2022-10-25": 0
+      "2022-10-25": 1
     }
   },
   {
@@ -122,7 +122,7 @@
     "slug": "syw-api",
     "status": "up",
     "uptime": "75.94%",
-    "uptimeDay": "13.17%",
+    "uptimeDay": "13.13%",
     "uptimeWeek": "75.94%",
     "uptimeMonth": "75.94%",
     "uptimeYear": "75.94%",
@@ -132,7 +132,7 @@
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2022-10-25": 402,
+      "2022-10-25": 403,
       "2022-10-24": 848,
       "2022-10-21": 38
     }
