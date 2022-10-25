@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.my.waste4change.com.ico",
     "slug": "syw-api",
     "status": "up",
-    "uptime": "70.20%",
+    "uptime": "70.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.20%",
-    "uptimeMonth": "70.20%",
-    "uptimeYear": "70.20%",
+    "uptimeWeek": "70.19%",
+    "uptimeMonth": "70.19%",
+    "uptimeYear": "70.19%",
     "time": 971,
     "timeDay": 932,
     "timeWeek": 971,
     "timeMonth": 971,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2022-10-25": 841,
+      "2022-10-25": 842,
       "2022-10-24": 848,
       "2022-10-21": 38
     }
