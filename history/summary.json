@@ -52,7 +52,7 @@
     "timeMonth": 1814,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2022-10-27": 1116,
+      "2022-10-27": 1118,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
@@ -120,7 +120,7 @@
     "slug": "syw-api",
     "status": "up",
     "uptime": "57.62%",
-    "uptimeDay": "36.64%",
+    "uptimeDay": "36.73%",
     "uptimeWeek": "57.62%",
     "uptimeMonth": "57.62%",
     "uptimeYear": "57.62%",
@@ -205,18 +205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/operator.waste4change.com.ico",
     "slug": "w4-c-s-operator",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 146,
     "timeDay": 138,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-10-27": 1
+      "2022-10-27": 3
     }
   }
 ]
