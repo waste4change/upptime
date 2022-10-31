@@ -1,7 +1,7 @@
 url: https://pwm.waste4change.com/poin/admin
-status: up
-code: 200
-responseTime: 2272
-lastUpdated: 2022-10-31T16:37:31.426Z
+status: down
+code: 502
+responseTime: 601
+lastUpdated: 2022-10-31T16:40:31.785Z
 startTime: Fri Oct 21 2022 13:09:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
